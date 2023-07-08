@@ -1,5 +1,5 @@
 {
-  "name": "postcss-prefixer",
+  "name": "postcss-prefixer-eliah",
   "version": "3.0.0",
   "description": "postcss plugin to prefix all css selector classes and ids",
   "main": "lib/prefixer.js",
@@ -46,10 +46,6 @@
     "test": "./test"
   },
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/marceloucker/postcss-prefixer.git"
-  },
   "bugs": {
     "url": "https://github.com/marceloucker/postcss-prefixer/issues"
   },
